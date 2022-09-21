@@ -1,0 +1,56 @@
+.button {
+    padding-left: 90px;
+}
+button {
+    margin-left: .5em;
+}
+ h1 {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+p {
+
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+textarea {
+vertical-align: top;
+height: 5em;
+resize: vertical;
+}
+input:focus, textarea:focus {
+
+border-color: #000;
+}
+input, label, textarea {
+font: 1em Times New Roman;
+
+width: 100px;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+border: 1px solid rgb(15, 14, 14);
+}
+label {
+
+display: inline-block;
+width: 150px;
+text-align: right;
+
+}
+form div + div {
+margin-top: 1em;
+}
+
+
+form {
+ background-color:#8c8d86;
+
+margin:  auto;
+width: 350px;
+
+padding: 1em;
+border: 1px solid rgb(51, 26, 26);
+border-radius: 1em;
+}
