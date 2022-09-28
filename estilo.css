@@ -58,9 +58,9 @@ border-radius: 1em;
     height: 30px;
     width: 150px;
     outline: none;
-    color:#eb4034;   
+    color:#000000;   
     font-size: 16px;
-    box-shadow: 0 5px #8f8e8c;
+    box-shadow: 0 5px #424240;
     cursor: pointer;
 }
     .button:hover{
