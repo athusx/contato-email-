@@ -53,23 +53,23 @@ border-radius: 1em;
 .button {
     border: none;
     border-radius: 15px;
-    background-color:rgb(28, 92, 32);
+    background-color:#32a852;
     padding: 5px 5px;
     height: 30px;
     width: 150px;
     outline: none;
-    color: rgb(217, 255, 0);   
+    color:#eb4034;   
     font-size: 16px;
-    box-shadow: 0 5px rgb(201, 204, 195);
+    box-shadow: 0 5px #32a852;
     cursor: pointer;
 }
     .button:hover{
-    background-color:rgb(89, 192, 94);
+    background-color:#eb4034;
     }
 
     .button:active{
-      background-color:rgb(55, 107, 58);
-      box-shadow: 0 4px rgb(58, 29, 29);
+      background-color:#fcba03;
+      box-shadow: 0 4px #32a852;
       transform: translateY(4px);
     }
 
