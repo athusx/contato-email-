@@ -72,4 +72,6 @@ border-radius: 1em;
       box-shadow: 0 4px #32a852;
       transform: translateY(4px);
     }
-
+   .center,.final{
+    text-align:center;
+   }
